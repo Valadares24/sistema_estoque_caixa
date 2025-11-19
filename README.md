@@ -1,5 +1,7 @@
 # sistema_estoque_caixa
 
+tive problemas nos commits, o front ta no drive: https://drive.google.com/drive/u/0/folders/1MrWZtIr9ua3xNKIcKogCecCOwRaIOmCk
+
 
 # 🛒 Sistema de Gestão de Estoque e Caixa
 
